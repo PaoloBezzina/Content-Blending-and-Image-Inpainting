@@ -8,7 +8,7 @@ ones were used.
 For this Project, the COTS dataset was used, available for free through the website (www.cotsdataset.info).
 The COTS dataset presents scenes with an incremental nature.
 
-The first part of this project tackles the problem of content blending across differentimages.
+The first part of this project tackles the problem of content blending across different images.
 
 In the second part of this project, several inpainting techniques were covered together with their evaluation.
 
